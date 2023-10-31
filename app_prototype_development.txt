@@ -1,0 +1,10 @@
+Mobile App Prototype Development Steps:
+
+1. Define the core functionality and features of the app prototype.
+2. Break down the development tasks into smaller, manageable steps.
+3. Set up the development environment and choose the appropriate programming language and framework.
+4. Implement the basic functionality for generating natal charts, including capturing user input, processing the data, and displaying the results.
+5. Test the prototype to ensure that the basic functionality is working as expected.
+6. Gather feedback from users and stakeholders on the prototype and make necessary adjustments.
+7. Iterate on the prototype based on the feedback and refine the functionality and user experience.
+8. Continue to test and refine the prototype until it meets the desired level of functionality and usability.

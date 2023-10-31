@@ -1,0 +1,12 @@
+Mobile App Testing Steps:
+
+1. Prepare sample data for testing, including different natal charts and scenarios.
+2. Test the app prototype by generating natal charts, retrieving energetic descriptions, and creating musical compositions.
+3. Identify and document any bugs or issues encountered during testing.
+4. Address and fix the identified bugs or issues.
+5. Repeat the testing process with different sample data to ensure the app's functionality and accuracy.
+6. Gather feedback from testers and make necessary improvements based on their input.
+7. Conduct regression testing to ensure that bug fixes or new features do not introduce new issues.
+8. Perform performance testing to assess the app's responsiveness and stability under different loads.
+9. Conduct usability testing to evaluate the app's user-friendliness and ease of navigation.
+10. Continuously review and update the app based on testing results and user feedback.

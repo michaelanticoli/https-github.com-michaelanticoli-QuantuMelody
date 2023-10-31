@@ -1,0 +1,12 @@
+Mobile App Development Steps:
+
+1. Set up the project environment and necessary tools.
+2. Create the necessary screens: Home Screen, Natal Chart Screen, Energetic Descriptions Screen, and Musical Composition Screen.
+3. Implement user input fields for date, time, and location on the Home Screen.
+4. Develop the logic to generate natal charts based on the provided data.
+5. Display the generated natal chart with planetary placements on the Natal Chart Screen.
+6. Translate the planetary placements into energetic descriptions on the Energetic Descriptions Screen.
+7. Design and implement the feature to inform the musical composition based on the energetic descriptions on the Musical Composition Screen.
+8. Test the app prototype for functionality and user experience.
+9. Make necessary refinements and improvements based on user feedback.
+10. Prepare the app for further development and integration with the astrology API.

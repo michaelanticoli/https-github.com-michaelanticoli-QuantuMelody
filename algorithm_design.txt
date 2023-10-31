@@ -1,0 +1,12 @@
+Algorithm Design Steps:
+
+1. Define the criteria for translating planetary placements and interactions into energetic descriptions.
+2. Analyze the planetary placement and interaction data to identify patterns and correlations.
+3. Determine the factors that contribute to the energetic qualities of each planetary placement and interaction.
+4. Develop a scoring system or algorithm that assigns energetic values to each data point based on the identified factors.
+5. Consider the overall composition and structure of the musical piece and how the energetic descriptions will contribute to it.
+6. Implement the algorithm in the mobile app to generate the energetic descriptions based on the retrieved data.
+7. Test the algorithm by generating multiple natal charts and reviewing the resulting energetic descriptions.
+8. Refine and adjust the algorithm as needed to improve the accuracy and relevance of the energetic descriptions.
+9. Document the algorithm design and implementation for future reference and maintenance.
+10. Continuously evaluate and update the algorithm based on user feedback and new insights.

@@ -1,0 +1,19 @@
+User Interface Design:
+
+1. Home Screen:
+- Display options to generate natal charts
+- Input fields for date, time, and location
+
+2. Natal Chart Screen:
+- Display the generated natal chart with planetary placements
+- Provide descriptions of each planetary placement
+
+3. Energetic Descriptions Screen:
+- Translate the planetary placements into energetic descriptions
+- Display the descriptions in an engaging and informative way
+
+4. Musical Composition Screen:
+- Inform the user about the musical composition based on the energetic descriptions
+- Allow the user to listen to the composition
+
+Note: The design should be visually appealing and user-friendly.
